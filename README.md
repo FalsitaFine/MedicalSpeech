@@ -14,6 +14,8 @@ Info collect tools: for improving the speech-recognition result, these tools are
 See:
 https://github.com/FalsitaFine/info_collect
 
+To better use these text files, a sound-generator is provided: https://github.com/FalsitaFine/Sound-generate-tool
+
 Correlation Model:
 These tools are created to compute the relationship between medical terms.
 
